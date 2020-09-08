@@ -19,7 +19,7 @@ formRegistro.addEventListener('submit', (e) => {
 	});
     guardarEnStorage(usuario);
 	alert('Usuario creado')
-	window.location.pathname = 'CRUD_localstorage/assets/pages/lista.html'
+	window.location.pathname = 'CRUD_localStorage/assets/pages/lista.html'
 
 });
 
